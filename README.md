@@ -35,6 +35,8 @@ Conteúdo
     </tr>
 </table>
 
+</br></br>
+
 # Métodos de um objeto socket
 
 - accept(): Aceita uma conexão de cliente
@@ -54,3 +56,7 @@ Conteúdo
 </br></br>
 
 # Estrutura
+
+<h1 align="center">
+    <img alt="Readme" title="Readme" src="../img"/>
+</h1>
