@@ -1,11 +1,10 @@
-# README
-
-Tabela de conteúdo
+Conteúdo
 ==================
 
 * [O que é socket](#O-que-é-socket)
 * [Principais método](#Principais-método)
     * [Método de um objeto socket](#Método-de-um-objeto-socket)
+* [Interface de sockets](#Interface-de-sockets)
 * [Estrutura](#Estrutura)
 </br></br>
 
@@ -39,11 +38,19 @@ Tabela de conteúdo
 # Métodos de um objeto socket
 
 - accept(): Aceita uma conexão de cliente
-- bind(): 
+
+- bind(endereço): Associa o socket servidor a um endereço
+
+- close(): Fecha um socket, liberando todos os recursos alocados.
+
+- connect(endereço): Conecta um cliente a um endereço.
+
+- connect_ex(endereço): Idem anterior, retornando um indicador de erro, em vez de uma exceção, na ocorrência da chamada do connect em baixo nível. 
+
+</br></br>
+
+# Interface de sockets
+
+</br></br>
 
 # Estrutura
-<p>E</p>
-<p>E</p>
-<p>E</p>
-<p>E</p>
-<p>E</p>
