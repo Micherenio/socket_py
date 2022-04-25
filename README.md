@@ -58,5 +58,5 @@ Conteúdo
 # Estrutura
 
 <h1 align="center">
-    <img alt="Readme" title="Readme" src="../img"/>
+    <img alt="Readme" title="Readme" src="./img/cliente_servidor.png"/>
 </h1>
