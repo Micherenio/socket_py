@@ -83,4 +83,5 @@ python3 servidor.py
 ```
 - Cliente
 ```bash
+python3 cliente.py
 ```
