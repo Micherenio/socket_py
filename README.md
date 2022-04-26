@@ -85,3 +85,7 @@ python3 servidor.py
 ```bash
 python3 cliente.py
 ```
+
+<h1 align="center">
+    <img alt="Readme" title="Readme" src="./img/exec.png">
+</h1>
