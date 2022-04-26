@@ -17,7 +17,7 @@ Instalar o [python3](https://www.python.org/downloads/)
 sudo apt install python3.8
 
 # Verificando a versão
-python3.8 --version
+python3 --version
 ```
 
 </br></br>
@@ -62,10 +62,6 @@ python3.8 --version
 - connect(endereço): Conecta um cliente a um endereço.
 
 - connect_ex(endereço): Idem anterior, retornando um indicador de erro, em vez de uma exceção, na ocorrência da chamada do connect em baixo nível. 
-
-</br></br>
-
-# Interface de sockets
 
 </br></br>
 
