@@ -25,7 +25,7 @@ python3 --version
 # O que é socket
 <p>Sockets (soquetes) são empregados para o envio de mensagens através de uma rede. São uma dos formas mais comuns de IPC - Internet-Process Communication</p>
 
-<p>O mósulo socket do Python fornece uma interface para a API do sockets BSD.</p>
+<p>O módulo socket do Python fornece uma interface para a API do sockets BSD.</p>
 
 </br></br>
 
