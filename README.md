@@ -1,11 +1,25 @@
 Conteúdo
 ==================
 
+* [Pré-requisito](#Pré-requisito)
 * [O que é socket](#O-que-é-socket)
 * [Principais método](#Principais-método)
     * [Método de um objeto socket](#Método-de-um-objeto-socket)
 * [Interface de sockets](#Interface-de-sockets)
 * [Estrutura](#Estrutura)
+</br></br>
+
+# Pré-requisito
+Instalar o [python3](https://www.python.org/downloads/)
+```bash
+
+# Instalação
+sudo apt install python3.8
+
+# Verificando a versão
+python3.8 --version
+```
+
 </br></br>
 
 # O que é socket
@@ -60,3 +74,13 @@ Conteúdo
 <h1 align="center">
     <img alt="Readme" title="Readme" src="./img/cliente_servidor.png"/>
 </h1>
+
+# Execução
+
+- Servidor
+```bash
+python3 servidor.py
+```
+- Cliente
+```bash
+```
